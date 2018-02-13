@@ -1,0 +1,14 @@
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Docker.IntegrationTests.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Docker.IntegrationTests.pdb
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Docker.exe
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Elasticsearch.Net.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Nest.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\nunit.framework.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Docker.pdb
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Docker.exe.config
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Elasticsearch.Net.xml
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\Nest.xml
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\bin\Debug\nunit.framework.xml
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\obj\Debug\Docker.IntegrationTests.csprojResolveAssemblyReference.cache
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\obj\Debug\Docker.IntegrationTests.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.IntegrationTests\obj\Debug\Docker.IntegrationTests.pdb

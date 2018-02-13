@@ -1,0 +1,8 @@
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\bin\Debug\Docker.exe.config
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\bin\Debug\Docker.exe
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\bin\Debug\Docker.pdb
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\bin\Debug\nunit.framework.dll
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\bin\Debug\nunit.framework.xml
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\obj\Debug\Docker.csprojResolveAssemblyReference.cache
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\obj\Debug\Docker.exe
+c:\users\iazad\documents\visual studio 2017\Projects\Docker\Docker\obj\Debug\Docker.pdb

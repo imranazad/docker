@@ -1,0 +1,10 @@
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\Docker.UnitTests.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\Docker.UnitTests.pdb
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\nunit.framework.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\nunit.framework.xml
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\obj\Debug\Docker.UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\obj\Debug\Docker.UnitTests.dll
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\obj\Debug\Docker.UnitTests.pdb
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\Docker.exe
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\Docker.pdb
+c:\Users\iazad\documents\visual studio 2017\Projects\Docker\Docker.UnitTests\bin\Debug\Docker.exe.config

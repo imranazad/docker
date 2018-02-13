@@ -1,0 +1,9 @@
+/src/Docker/bin/Release/Docker.exe.config
+/src/Docker/bin/Release/Docker.exe
+/src/Docker/bin/Release/Docker.pdb
+/src/Docker/bin/Release/nunit.framework.dll
+/src/Docker/bin/Release/nunit.framework.xml
+/src/Docker/obj/Release/Docker.csprojResolveAssemblyReference.cache
+/src/Docker/obj/Release/Docker.csproj.CoreCompileInputs.cache
+/src/Docker/obj/Release/Docker.exe
+/src/Docker/obj/Release/Docker.pdb

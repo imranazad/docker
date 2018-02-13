@@ -1,0 +1,11 @@
+/src/Docker.UnitTests/bin/Release/Docker.UnitTests.dll
+/src/Docker.UnitTests/bin/Release/Docker.UnitTests.pdb
+/src/Docker.UnitTests/bin/Release/Docker.exe
+/src/Docker.UnitTests/bin/Release/nunit.framework.dll
+/src/Docker.UnitTests/bin/Release/Docker.pdb
+/src/Docker.UnitTests/bin/Release/Docker.exe.config
+/src/Docker.UnitTests/bin/Release/nunit.framework.xml
+/src/Docker.UnitTests/obj/Release/Docker.UnitTests.csprojResolveAssemblyReference.cache
+/src/Docker.UnitTests/obj/Release/Docker.UnitTests.csproj.CoreCompileInputs.cache
+/src/Docker.UnitTests/obj/Release/Docker.UnitTests.dll
+/src/Docker.UnitTests/obj/Release/Docker.UnitTests.pdb

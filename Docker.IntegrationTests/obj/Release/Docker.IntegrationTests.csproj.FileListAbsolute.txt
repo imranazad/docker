@@ -1,0 +1,15 @@
+/src/Docker.IntegrationTests/bin/Release/Docker.IntegrationTests.dll
+/src/Docker.IntegrationTests/bin/Release/Docker.IntegrationTests.pdb
+/src/Docker.IntegrationTests/bin/Release/Docker.exe
+/src/Docker.IntegrationTests/bin/Release/Elasticsearch.Net.dll
+/src/Docker.IntegrationTests/bin/Release/Nest.dll
+/src/Docker.IntegrationTests/bin/Release/nunit.framework.dll
+/src/Docker.IntegrationTests/bin/Release/Docker.pdb
+/src/Docker.IntegrationTests/bin/Release/Docker.exe.config
+/src/Docker.IntegrationTests/bin/Release/Elasticsearch.Net.xml
+/src/Docker.IntegrationTests/bin/Release/Nest.xml
+/src/Docker.IntegrationTests/bin/Release/nunit.framework.xml
+/src/Docker.IntegrationTests/obj/Release/Docker.IntegrationTests.csprojResolveAssemblyReference.cache
+/src/Docker.IntegrationTests/obj/Release/Docker.IntegrationTests.csproj.CoreCompileInputs.cache
+/src/Docker.IntegrationTests/obj/Release/Docker.IntegrationTests.dll
+/src/Docker.IntegrationTests/obj/Release/Docker.IntegrationTests.pdb
